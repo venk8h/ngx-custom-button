@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of ngx-custom-button
+ */
+export * from './lib/ngx-custom-button.service';
+export * from './lib/ngx-custom-button.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25neC1jdXN0b20tYnV0dG9uL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxpQ0FBaUMsQ0FBQztBQUNoRCxjQUFjLG1DQUFtQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcclxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG5neC1jdXN0b20tYnV0dG9uXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbmd4LWN1c3RvbS1idXR0b24uc2VydmljZSc7XHJcbmV4cG9ydCAqIGZyb20gJy4vbGliL25neC1jdXN0b20tYnV0dG9uLmNvbXBvbmVudCc7XHJcbiJdfQ==
